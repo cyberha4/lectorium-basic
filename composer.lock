@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "06b62765c358cc36dce225b37727290b",
     "content-hash": "5c65999de4ae0cef631a6ee8bb9cacfb",
     "packages": [
         {
@@ -141,16 +140,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/blueimp/JavaScript-Canvas-to-Blob.git",
-                "reference": "cb5add6fd18abba567c4824a601f57b9a9e30e04"
+                "reference": "47fb9a775b079e54a3e08be35a988dfaafae5f77"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/blueimp/JavaScript-Canvas-to-Blob/zipball/cb5add6fd18abba567c4824a601f57b9a9e30e04",
-                "reference": "cb5add6fd18abba567c4824a601f57b9a9e30e04",
+                "url": "https://api.github.com/repos/blueimp/JavaScript-Canvas-to-Blob/zipball/47fb9a775b079e54a3e08be35a988dfaafae5f77",
+                "reference": "47fb9a775b079e54a3e08be35a988dfaafae5f77",
                 "shasum": ""
             },
             "type": "bower-asset-library",
-            "time": "2016-02-24 20:22:57"
+            "time": "2016-11-02 21:55:32"
         },
         {
             "name": "bower-asset/blueimp-file-upload",
@@ -237,16 +236,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/blueimp/JavaScript-Load-Image.git",
-                "reference": "da2e77837e81a2a0a143a77034dc01604173790a"
+                "reference": "9f95a00cf12a3bcfa340c6c61d6e719607054f92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/blueimp/JavaScript-Load-Image/zipball/da2e77837e81a2a0a143a77034dc01604173790a",
-                "reference": "da2e77837e81a2a0a143a77034dc01604173790a",
+                "url": "https://api.github.com/repos/blueimp/JavaScript-Load-Image/zipball/9f95a00cf12a3bcfa340c6c61d6e719607054f92",
+                "reference": "9f95a00cf12a3bcfa340c6c61d6e719607054f92",
                 "shasum": ""
             },
             "type": "bower-asset-library",
-            "time": "2016-03-21 15:49:39"
+            "time": "2016-11-02 21:45:55"
         },
         {
             "name": "bower-asset/blueimp-tmpl",
@@ -254,16 +253,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/blueimp/JavaScript-Templates.git",
-                "reference": "9dc414739a4d23663018575c5036b88e0de2ba4d"
+                "reference": "cf6762906d051e722ea836701357f930ae234475"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/blueimp/JavaScript-Templates/zipball/9dc414739a4d23663018575c5036b88e0de2ba4d",
-                "reference": "9dc414739a4d23663018575c5036b88e0de2ba4d",
+                "url": "https://api.github.com/repos/blueimp/JavaScript-Templates/zipball/cf6762906d051e722ea836701357f930ae234475",
+                "reference": "cf6762906d051e722ea836701357f930ae234475",
                 "shasum": ""
             },
             "type": "bower-asset-library",
-            "time": "2016-04-11 21:26:22"
+            "time": "2016-11-02 21:51:32"
         },
         {
             "name": "bower-asset/bootstrap",
@@ -366,12 +365,12 @@
             "version": "3.2.7",
             "source": {
                 "type": "git",
-                "url": "https://github.com/RobinHerbots/jquery.inputmask.git",
+                "url": "https://github.com/RobinHerbots/Inputmask.git",
                 "reference": "5a72c563b502b8e05958a524cdfffafe9987be38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RobinHerbots/jquery.inputmask/zipball/5a72c563b502b8e05958a524cdfffafe9987be38",
+                "url": "https://api.github.com/repos/RobinHerbots/Inputmask/zipball/5a72c563b502b8e05958a524cdfffafe9987be38",
                 "reference": "5a72c563b502b8e05958a524cdfffafe9987be38",
                 "shasum": ""
             },
@@ -696,7 +695,7 @@
             "keywords": [
                 "html"
             ],
-            "time": "2016-07-16 12:58:58"
+            "time": "2016-07-16T12:58:58+00:00"
         },
         {
             "name": "imagine/imagine",
@@ -753,7 +752,7 @@
                 "image manipulation",
                 "image processing"
             ],
-            "time": "2015-09-19 16:54:05"
+            "time": "2015-09-19T16:54:05+00:00"
         },
         {
             "name": "morozovsk/websocket",
@@ -1198,7 +1197,7 @@
                 "imagine",
                 "yii2"
             ],
-            "time": "2016-11-03 19:28:39"
+            "time": "2016-11-03T19:28:39+00:00"
         },
         {
             "name": "yiisoft/yii2-swiftmailer",
@@ -1327,7 +1326,7 @@
                 "faker",
                 "fixtures"
             ],
-            "time": "2016-11-09 08:42:27"
+            "time": "2016-11-09T08:42:27+00:00"
         },
         {
             "name": "phpspec/php-diff",
@@ -1365,7 +1364,7 @@
                 }
             ],
             "description": "A comprehensive library for generating differences between two hashable objects (strings or arrays).",
-            "time": "2016-04-07 12:29:16"
+            "time": "2016-04-07T12:29:16+00:00"
         },
         {
             "name": "yiisoft/yii2-codeception",
@@ -1411,7 +1410,7 @@
                 "yii2"
             ],
             "abandoned": "codeception/codeception",
-            "time": "2016-10-20 13:07:49"
+            "time": "2016-10-20T13:07:49+00:00"
         },
         {
             "name": "yiisoft/yii2-debug",
@@ -1458,7 +1457,7 @@
                 "debugger",
                 "yii2"
             ],
-            "time": "2016-11-12 13:42:24"
+            "time": "2016-11-12T13:42:24+00:00"
         },
         {
             "name": "yiisoft/yii2-faker",
@@ -1505,7 +1504,7 @@
                 "faker",
                 "yii2"
             ],
-            "time": "2016-04-14 08:47:34"
+            "time": "2016-04-14T08:47:34+00:00"
         },
         {
             "name": "yiisoft/yii2-gii",
@@ -1558,7 +1557,7 @@
                 "gii",
                 "yii2"
             ],
-            "time": "2016-10-26 10:37:38"
+            "time": "2016-10-26T10:37:38+00:00"
         }
     ],
     "aliases": [],
